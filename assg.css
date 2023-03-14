@@ -1,0 +1,106 @@
+.p1{
+    display: inline-flex;
+    justify-content: center;
+}
+.l{
+    width: 100px;
+    height: 60px;
+    color: black;
+    background-color: red;
+}
+.web{
+    width: 800px;
+    height: 60px;
+    color: black;
+    background-color: green;
+    text-align: center;
+
+}
+.m{
+    width: 900px;
+    height: 40px;
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    float: left;
+    
+}
+.zon{
+    padding: 00px 0;
+    text-align: center;
+}
+.sec{
+    display: inline-flex;
+    justify-content: center;
+    float: left;
+    margin-right: 1000px;
+}
+.p2{
+    width: 300px;
+    height: 300px;
+    color: black;
+    background-color: darkblue;
+    text-align: center;
+    
+}
+.centre{
+    padding: 60px 0;
+    text-align: center;
+}
+.p3{
+    width: 300px;
+    height: 300px;
+    color: black;
+    background-color: darkolivegreen;
+    text-align: center;
+}
+.centre{
+    padding: 60px 0;
+    text-align: center;
+}
+.p4{
+    width: 300px;
+    height: 300px;
+    color: black;
+    background-color: plum;
+    text-align: center;
+    
+}
+.centre{
+    padding: 60px 0;
+    text-align: center;
+}
+.ps{
+    display: inline-flex;
+    justify-content: center;
+}
+.pc{
+    width: 800px;
+    height: 500px;
+    color: black;
+    background-color: lightgreen;
+    text-align: center;
+}
+.core{
+    padding: 700px 0;
+    text-align: center;
+}
+.sb{
+    width: 100px;
+    height: 500px;
+    color: black;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+.core{
+    padding: 80px 0;
+    text-align: center;
+}
+.pf{
+    width:900px;
+    height: 50px;
+    color: black;
+    background-color: lightseagreen;
+    float: left;
+    text-align: center;
+}

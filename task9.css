@@ -1,0 +1,12 @@
+.img1{
+    display:block ;
+    text-align: center;
+    width:50%;
+    height:100px;
+    display: block;
+    margin-top: 10%;
+   }
+.text{
+    color: violet;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+.box1{
+    border: 5px outset red;
+    background-color: green;
+    color: violet;
+    text-align: center;
+    height: 200px;
+    width: 200px
+   }
+   .box2{
+    border: 5px outset blue;
+    background-color: grey;
+    color: pink;
+    text-align: center;
+    height: 200px;
+    width: 200px
+   }
